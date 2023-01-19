@@ -3984,11 +3984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HERSAN\\source\\repos\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+      "projectUniqueName": "C:\\Cursos\\MSTienda\\n6\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
       "projectName": "TiendaServicios.Api.Libro",
-      "projectPath": "C:\\Users\\HERSAN\\source\\repos\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
+      "projectPath": "C:\\Cursos\\MSTienda\\n6\\TiendaServicios\\TiendaServicios.Api.Libro\\TiendaServicios.Api.Libro.csproj",
       "packagesPath": "C:\\Users\\HERSAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HERSAN\\source\\repos\\TiendaServicios\\TiendaServicios.Api.Libro\\obj\\",
+      "outputPath": "C:\\Cursos\\MSTienda\\n6\\TiendaServicios\\TiendaServicios.Api.Libro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SMIm5p5CVA9/b1S4ZUI2lcYL090rmZhX8OsskJ1+FeBD+kX+ZpasvznrUX2actzdUPReGxs2YNQk7AJIvM2ujQ==",
+  "dgSpecHash": "a5aQVxhF426/bOvzXcRk082Mrl69wL4XflRmOl3EN3GqxDdOAs2sirEV1PaZ5DUgORNq49NcyM1/RG1qBIEfiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HERSAN\\source\\repos\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
+  "projectFilePath": "C:\\Cursos\\MSTienda\\n6\\TiendaServicios\\TiendaServicios.Api.CarritoCompra\\TiendaServicios.Api.CarritoCompra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HERSAN\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\HERSAN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

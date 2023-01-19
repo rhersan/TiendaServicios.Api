@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n+pLRpABoO/u8BS3MZI7eZ4cYsVWmENOqMH1aHibEU9YyqRDlrG66XSf4W7P9Wg6VfdKWJRkiyxxivWcLdyDBw==",
+  "dgSpecHash": "fUJxSxR/i9gwXN4GeziXR7bT2TH48ywZvPZbQlawWNoL9Pn3/Zo0opAACVrxJw/eFHyYOinGvhFK2VYIGTIDBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HERSAN\\source\\repos\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
+  "projectFilePath": "C:\\Cursos\\MSTienda\\n6\\TiendaServicios\\TiendaServicios.Api.Autor\\TiendaServicios.Api.Autor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HERSAN\\.nuget\\packages\\accelergreat\\1.7.1\\accelergreat.1.7.1.nupkg.sha512",
     "C:\\Users\\HERSAN\\.nuget\\packages\\accelergreat.entityframework\\1.7.1\\accelergreat.entityframework.1.7.1.nupkg.sha512",

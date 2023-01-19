@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0uSbduCMck32dPke94PcT4KeAXbj9rDECgLbrmP1FHT7cpJmeo1uOS3Oa9kExah8E8+kQzkbSDG9WSFeQ4xBg==",
+  "dgSpecHash": "zvUrO2l6C1LBuAF2v1n0SbkkdGFzXGtVzcKEdSVF5aInXJusNBzAnVH3zOwZfmKVhzTlYKo9fJPALASuG5n74w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HERSAN\\source\\repos\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
+  "projectFilePath": "C:\\Cursos\\MSTienda\\n6\\TiendaServicios\\TiendaServicios.Api.Libro.Tests\\TiendaServicios.Api.Libro.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HERSAN\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\HERSAN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
